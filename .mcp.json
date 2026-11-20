@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "edata9-data": {
+      "type": "stdio",
+      "command": "py",
+      "args": ["-3.12", "tools/duckdb_mcp.py"]
+    }
+  }
+}
